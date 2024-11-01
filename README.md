@@ -8,12 +8,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=RioRio-do&theme=onedark
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-
-
 # skills
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,py,html,css,scss,js,ts,nodejs,npm,react,nextjs,p5js,rust,c,cpp,ruby,sqlite,latex,md,discord,misskey,twitter,gmail,git,github,vscode,notion,obsidian,figma,windows,linux,ubuntu,svg,&theme=dark)](https://skillicons.dev)
-
-# 
 
 <!--
 **RioRio-do/RioRio-do** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
