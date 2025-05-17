@@ -8,6 +8,7 @@ I'm a student at KOSEN (National Institute of Technology) in Japan.
 - Flutter for cross-platform app development
 - Rust for system programming
 - React for web development
+- I don't use GitHub much these days, so I may not be able to contact you.
 
 ## Summary (in public)
 <p align="left"> 
