@@ -10,14 +10,6 @@ I'm a student at KOSEN (National Institute of Technology) in Japan.
 - React for web development
 - I don't use GitHub much these days, so I may not be able to contact you.
 
-## Summary (in public)
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RioRio-do&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=RioRio-do&theme=onedark&show_icons=ture" />
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RioRio-do&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## Interests / Abilities
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,py,html,css,scss,js,ts,nodejs,npm,react,nextjs,p5js,rust,c,cpp,ruby,sqlite,latex,md,discord,misskey,twitter,gmail,git,github,vscode,notion,obsidian,figma,windows,linux,ubuntu,svg&theme=dark)](https://skillicons.dev)
 
